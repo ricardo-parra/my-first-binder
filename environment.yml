@@ -15,4 +15,5 @@ dependencies:
   - pip:
     - fastai
     - fastbook
-  - fastbook
+  - conda: 
+    - fastbook
