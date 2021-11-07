@@ -11,7 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - pip
-  - pip:
+  - conda
+  - conda:
     - fastai
     - fastbook
